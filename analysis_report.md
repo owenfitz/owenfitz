@@ -250,8 +250,7 @@ plt.legend()
 
 
     
-!images/[png](output_11_2.png)
-    
+<img src="images/output_11_2.png?raw=true"/>    
 
 
 After analysis of the scatterplot with the regression, it appears as though companies with more hits associated with the keys words revolving environmental regulations experienced worse returns than those with less or no matches. As the regression is downward sloping, it is very telling that there may be some correlation between mentioning environmental regulations and having worse returns. Those companies that write more about environmental regulations may be in the energy sector where limitations on production may hurt their returns.  
@@ -274,8 +273,7 @@ plt.legend()
 
 
     
-!images/[png](output_13_2.png)
-    
+<img src="images/output_13_2.png?raw=true"/>    
 
 
 In this case with Social risk, it appears as though there may be little to no correlation between having the keywords, 'social|diversity|diverse' paired with 'law|regulation|sanction', mentioned and having worse returns. I believe with most of these ESG risks, there may be no reflection in the returns due to the time we chose and the circumstances of the situation.
@@ -298,8 +296,7 @@ plt.legend()
 
 
     
-!images/[png](output_15_2.png)
-    
+<img src="images/output_15_2.png?raw=true"/>    
 
 
 Analyzing the scatterplot and regression for governance risk, the regression line is on a positive slope, indicating that the companies that mentioned the keywords more experienced better returns. However, this regression slope is not extreme and is only a gradual rise. As stated previously, I hypothesize that the reason for my ESG risks to not be as much of a factor as it is today is due to the time of the sample. Many investors and companies started using ESG as a factor during the pandemic as many individuals' social awareness increased over the pandemic resulting in the support of companies who invest back into their stakeholders and community.
@@ -324,8 +321,7 @@ plt.legend()
 
 
     
-!images/[png](output_18_2.png)
-    
+<img src="images/output_18_2.png?raw=true"/>    
 
 
 The scatterplot and regression line show that much of the correlation, or lack there of, between competition risk and the returns is almost flat but slightly downward sloping. Much of the data for returns is distributed quite evenly when the company has between 0-15 matches. After 15 matches, the few companies remaining have returns similar to the rest of the sample, however, there are a few outliers past 15 matches that have returns that are below average. This could be seen as correlation between experiencing more competition risk and having lower returns.
@@ -350,8 +346,7 @@ plt.legend()
 
 
     
-!images/[png](output_21_2.png)
-    
+<img src="images/output_21_2.png?raw=true"/>    
 
 
 The scatterplot and regression line for Supply Chain risks and returns shows a negative slope. This means that the companies who had more matches associated with supply risks experienced worse returns than those who did not. The two companies with the largest amount of matches have much different returns, one of the companies is performing similar to how the regression predicted, the other is performing much better with a positive return for the week. This could mean that in this time-frame the correlation between supply chain risks and having lower returns is non-existent, however, some of the other companies who had high match counts experienced returns much worse than the rest. Larger time-span would be needed in order to accurately decide whether the two are correlated.
