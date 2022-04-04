@@ -1,3 +1,6 @@
+---
+layout: wide_default
+---
 # Analysis Report
 
 ## Variable Descriptions and Reasonings
