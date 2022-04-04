@@ -247,7 +247,7 @@ plt.legend()
 
 
     
-![png](output_11_2.png)
+!images/[png](output_11_2.png)
     
 
 
@@ -271,7 +271,7 @@ plt.legend()
 
 
     
-![png](output_13_2.png)
+!images/[png](output_13_2.png)
     
 
 
@@ -295,7 +295,7 @@ plt.legend()
 
 
     
-![png](output_15_2.png)
+!images/[png](output_15_2.png)
     
 
 
@@ -321,7 +321,7 @@ plt.legend()
 
 
     
-![png](output_18_2.png)
+!images/[png](output_18_2.png)
     
 
 
@@ -347,7 +347,7 @@ plt.legend()
 
 
     
-![png](output_21_2.png)
+!images/[png](output_21_2.png)
     
 
 
