@@ -3,7 +3,7 @@ logo: "images/img.jpeg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   <a href="www.linkedin.com/in/owen-fitzgerald-5189b9217">LinkedIn</a> 
   <br>
-  <a href="https://bowen.finance/cv/" class="btn btn--info">Resume</a>  
+  <a href="https://github.com/owenfitz/owenfitz/blob/master/pdf/Fitzgerald_O_Resume.pdf" class="btn btn--info">Resume</a>  
   <br>
   <a href="https://www.GitHub.com/owenfitz/">GitHub</a>  
 theme: jekyll-theme-minimal
